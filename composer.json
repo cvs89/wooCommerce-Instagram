@@ -1,0 +1,13 @@
+{
+    "name": "cvs89/wp-insta",
+    "description": "Sell on instagram through woocommerce",
+    "require": {
+        "cosenary/instagram": "^2.3"
+    },
+    "authors": [
+        {
+            "name": "chandraveer",
+            "email": "chandraveersingh.90@gmail.com"
+        }
+    ]
+}
